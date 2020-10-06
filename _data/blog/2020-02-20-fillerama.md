@@ -3,6 +3,10 @@ template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
 title: Title1
+tags:
+  - nextjs
+  - phaser3
+  - anaconda
 thumbnail: /assets/image-7.jpg
 ---
 # No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
